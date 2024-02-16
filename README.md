@@ -1,5 +1,9 @@
 # My-Talks
 
+Find my in-person talks and blogs [here](https://www.commudle.com/users/knowshubhangi)
+Find all my virtual talks [here](https://youtube.com/playlist?list=PLlDo159nMefPMHTiVtumvJLjqA-92zXqG&si=4AxP2EwCRsg-vu67)
+
+
 1. [Resume Building](https://github.com/knowShubhangi/My-Talks/blob/master/TechlitXGirlUp%20-%20Resume%20Building.pptx)
 
 2. [Student Developer Pack + GitHub Global Campus](https://docs.google.com/presentation/d/1gkn2TDuAERMFWA75hpg8c_bCATfMG0HuXUSfmIBCScw/edit?usp=sharing)
