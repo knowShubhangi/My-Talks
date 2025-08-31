@@ -12,6 +12,7 @@ Find all my virtual talks [here](https://youtube.com/playlist?list=PLlDo159nMefP
 6. [Destress and Reset](https://www.canva.com/design/DAFQyE4ngRo/Vj8uYjSEkO6JGc2f1PBY5w/edit?utm_content=DAFQyE4ngRo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 7. [Diversity and Inclusion](https://www.canva.com/design/DAFRKAnNE7A/bVTjDj51kDnNeMPgMwN9mg/edit?utm_content=DAFRKAnNE7A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 8. [Stage Fright to Speak Right](https://www.canva.com/design/DAGCxxEPqBw/38XC3ukf0XDgP4Tik-UONg/edit?ui=eyJEIjp7IlAiOnsiQiI6ZmFsc2V9fX0)
-9. All slides - https://www.canva.com/design/DAFvPMkV9uQ/ruG2VbxQ72fo2lk_m3GuHw/edit
-10. 
+9. [Open source and AI](https://www.canva.com/design/DAGxejuLWWE/OIjlbeUyYwLYvk9K09ITmw/edit)
+10. [All slides](https://www.canva.com/design/DAFvPMkV9uQ/ruG2VbxQ72fo2lk_m3GuHw/edit)
+11. 
 
